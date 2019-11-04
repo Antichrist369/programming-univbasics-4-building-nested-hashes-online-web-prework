@@ -22,14 +22,6 @@ def monopoly_with_third_tier
          :key4 => {} },
   } 
  }
-           #:names =>
-            
-      
-      
-      #}    
-     #}    
-                   
-   #} 
 end
 
 def monopoly_with_fourth_tier
