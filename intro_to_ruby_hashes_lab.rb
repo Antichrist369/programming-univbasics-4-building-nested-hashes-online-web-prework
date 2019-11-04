@@ -28,7 +28,7 @@ def monopoly_with_fourth_tier
 monopoly = { :railroads => 
   { :pieces => 4, 
     :rent_in_dollars =>
-      { :one => {}, 
+      { , 
         :two => {}, 
         :three => {}, 
         :four => {} }, 
@@ -37,7 +37,7 @@ monopoly = { :railroads =>
          :key2 => {}, 
          :key3 => {}, 
          :key4 => {} },
-      :one_piece_owned => 25,   
+        
   } 
  }
 end
